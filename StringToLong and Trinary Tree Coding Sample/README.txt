@@ -1,0 +1,2 @@
+I have written the stringToLong(string) function in C rather than Java.  The operation of that function in my opinion seemed very much like the atoi function in the C stdlib library, and I made the output from stringToLong correspond to atoi for all examples that I thought to test.  For the TrinaryTree question, I used Java.  I made the TrinaryTree a template class that can handle any node values that implement the Java Comparable interface.
+
