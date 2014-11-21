@@ -136,7 +136,7 @@ static void deleteRegex(char* headerRegex) {
  *
  * @param regex The structure to receive the compiled regular
  * expression
- * @param uncompiledRegex An compiled regular expression given
+ * @param uncompiledRegex An uncompiled regular expression given
  * as a string
  * @param Zero for a successful compilation process, or error
  * values as determined by regcomp()
