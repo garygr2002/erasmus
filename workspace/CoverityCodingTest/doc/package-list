@@ -1,0 +1,4 @@
+com.garygregg.coverity.codingtest
+com.garygregg.coverity.codingtest.lexical_analysis
+com.garygregg.coverity.codingtest.operation
+com.garygregg.coverity.codingtest.token
